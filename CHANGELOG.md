@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-11-25)
+
+
+### Features
+
+* Initial changes ([7a9cca4](https://github.com/ryan-j-walker/toolbox-cuda-pixinsight/commit/7a9cca4ff81309edffed033635b39ef11466fc71))
+
 ## [1.1.0](https://github.com/ublue-os/boxkit/compare/v1.0.0...v1.1.0) (2023-10-09)
 
 
